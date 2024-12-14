@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "price": 5000,
+      "stops": 0,
+      "origin": "Bishkek",
+      "destination": "Moscow",
+      "time": "2024-12-15",
+      "dTime":"09:25",
+       "Atime":"11:45"
+      
+    },
+    {
+      "id": 2,
+      "price": 8000,
+      "stops": 1,
+      "origin": "Bishkek",
+      "destination": "London",
+      "time": "2024-12-16",
+      "dTime":"10:00",
+       "Atime":"13:00"
+    }
+  ]
+  
